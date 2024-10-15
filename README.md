@@ -21,7 +21,7 @@ The dataset used for this project is labeled IMDb movie reviews from Kaggle. It 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Fahrettinsolak/AI-User-Comment-And-Sentiment-Analysis-Project.git
 ```
 
 ### 2. Install dependencies
